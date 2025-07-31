@@ -32,5 +32,6 @@ A responsive portfolio website built with HTML/CSS
 
 - 📧 Email: LeslieeTheTester@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lsanders7)  
-- 📄 Resume: [Leslie.Sa.pdf](https://github.com/user-attachments/files/21531201/Leslie.Sa.pdf)
+- 📄 Resume:  [Leslie_Sanders_Resume.pdf](https://github.com/user-attachments/files/21531201/Leslie_Sanders_Resume.pdf)
+
 
